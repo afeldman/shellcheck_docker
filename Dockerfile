@@ -1,4 +1,3 @@
-
 FROM alpine:edge as builder
 
 ARG REQUIRE="cabal git build-base"
